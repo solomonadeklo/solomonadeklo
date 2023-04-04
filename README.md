@@ -1,7 +1,7 @@
 <img src="/amalitech.png" width="100%" height="300px" style="margin-right: 2rem; display: flex "> 
 <h1 align="center">Hello 👋, I'm Solomon Yaw Adeklo</h1>
 <h3 align="center">I am a Full-Stack Software Engineer Trainee at Amalitech Training Academy as part of the company's Graduate Trainee Programme✨</h3>
-<img src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47rmsba7fv27ywvgir8f0he7e1w960uiknknbbmbwu&rid=giphy.gif&ct=g" width="200" alt="coding">
+<img src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47rmsba7fv27ywvgir8f0he7e1w960uiknknbbmbwu&rid=giphy.gif&ct=g" width="70%" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solomon-yaw-amalitech&label=Profile%20views&color=0e75b6&style=flat" alt="solomonyaw" /> </p>
 <p align="center"> <img  align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/></p>
