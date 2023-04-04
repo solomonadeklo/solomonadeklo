@@ -1,10 +1,10 @@
 <img src="/amalitech.png" width="100%" height="300px" style="margin-right: 2rem; display: flex "> 
 <h1 align="center">Hello 👋, I'm Solomon Yaw Adeklo</h1>
 <h3 align="center">I am a Full-Stack Software Engineer Trainee at Amalitech Training Academy as part of the company's Graduate Trainee Programme✨</h3>
-<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200" alt="coding">
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2FxT9IgzoKnwFNmISR8I%2Fgiphy.gif&tbnid=TKhmFhaduO6FzM&vet=12ahUKEwjuwKXEx5D-AhWxpkwKHTuXDYIQMygFegUIARCfAg..i&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&docid=byl13oNOX0zH9M&w=420&h=375&q=programming%20gif&ved=2ahUKEwjuwKXEx5D-AhWxpkwKHTuXDYIQMygFegUIARCfAg" width="200" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solomon-yaw-amalitech&label=Profile%20views&color=0e75b6&style=flat" alt="solomonyaw" /> </p>
-<p align="center"> <img  align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2FxT9IgzoKnwFNmISR8I%2Fgiphy.gif&tbnid=TKhmFhaduO6FzM&vet=12ahUKEwjuwKXEx5D-AhWxpkwKHTuXDYIQMygFegUIARCfAg..i&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&docid=byl13oNOX0zH9M&w=420&h=375&q=programming%20gif&ved=2ahUKEwjuwKXEx5D-AhWxpkwKHTuXDYIQMygFegUIARCfAg" width="100"/></p>
+<p align="center"> <img  align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solomon-yaw-amalitech" alt="solomonyaw" /></a> </p>
 
