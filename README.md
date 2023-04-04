@@ -2,7 +2,7 @@
 <h3 align="center">I am a Full-Stack Software Engineer Trainee at Amalitech Training Academy as part of the company's Graduate Trainee Programme✨</h3>
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200" alt="coding">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=solomonyaw&label=Profile%20views&color=0e75b6&style=flat" alt="solomonyaw" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=solomon-yaw-amalitech&label=Profile%20views&color=0e75b6&style=flat" alt="solomonyaw" /> </p>
 <p align="center"> <img  align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solomon-yaw-amalitech" alt="solomonyaw" /></a> </p>
