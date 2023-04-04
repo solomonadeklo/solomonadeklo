@@ -1,5 +1,3 @@
-
-[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://rishavchanda.io)
 <h1 align="center">Hello 👋, I'm Solomon Yaw Adeklo</h1>
 <h3 align="center">A passionate aspiring Full-Stack developer based in Tema/Ghana. I specialize in Web Development, JavaScript and hybrid mobile app development with IONIC. I love to network, join new communities and add value to communities globally✨</h3>
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200" alt="coding">
@@ -20,14 +18,14 @@
 - ⚡ Fun fact **I'm jovial**
 
 - 📫 How to reach me **sadeklo@st.vvu.edu.gh**
-- 📄 Know about my experiences https://solomonadeklo.me/CV.pdf 
+- 📄 Know about my experiences https://solomonadeklo.me/CV.pdf
 - 📹 Check out my youtube channel https://www.youtube.com/@trinarycompanylimited4572
 
 🌐 Languages : English, Twi(Native Ghanaian Language), Ewe(Native Ghanaian Language).
 
 <div align=center> 
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Fun+Facts:+;I+Love+Listening+To+Music;I+Love+Football;And+I+Am+A+Chelsea+Fan;I+Love+Reading;Bucky+Fuller+Is+My+Role+Model;I+Have+Passion+For+AI;" alt="Headline" /> 
-     </div> 
+     </div>
 
 <h3 align="left"><ins>Full Stack Software Engineering Apprenticeship (Graduate Trainee Programme)</ins></h3>
 <img src="/amalitech.png" width="20%" height="20%" style="margin-right: 2rem; display: flex "> 
@@ -45,14 +43,11 @@
 
 <a href="https://www.youtube.com/watch?v=wgXSkkYlIoA"> <img width="750px" height= "400px"  src="https://github.com/solomonyaw/solomonyaw/blob/main/video.PNG" alt="youtube_Tutorial" /></a><br>
 
-
-
 Biography of my project supervisor 👇 👉https://vvu.edu.gh/index.php/lms/teachers/teacher/prince-yaw-owusu-amoako
 
 <p>Below is an introductory video prologue that inspires my goal of me reaching the status of a Full Stack Software Engineer . 👇 📷📸🔥🔥👨‍💻👨‍💻⌨️ 🌍✨</p>
 
-  <a href="https://www.youtube.com/watch?v=juxwJFkR9xw" target="_blank"><img src="/prologue.PNG" width="750px" height= "400px" class="gtdc" alt="GTDC" style=" box-shadow: 0rem  0.5rem 1rem #888888;"/></a>
-
+<a href="https://www.youtube.com/watch?v=juxwJFkR9xw" target="_blank"><img src="/prologue.PNG" width="750px" height= "400px" class="gtdc" alt="GTDC" style=" box-shadow: 0rem  0.5rem 1rem #888888;"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -71,4 +66,3 @@ Biography of my project supervisor 👇 👉https://vvu.edu.gh/index.php/lms/tea
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solomonyaw&show_icons=true&locale=en" alt="solomonyaw" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solomonyaw&" alt="solomonyaw" /></p>
-
