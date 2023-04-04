@@ -1,4 +1,4 @@
-<img src="/amalitech.png" width="100%" height="100%" style="margin-right: 2rem; display: flex "> 
+<img src="/amalitech.png" width="100%" height="50%" style="margin-right: 2rem; display: flex "> 
 <h1 align="center">Hello 👋, I'm Solomon Yaw Adeklo</h1>
 <h3 align="center">I am a Full-Stack Software Engineer Trainee at Amalitech Training Academy as part of the company's Graduate Trainee Programme✨</h3>
 <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200" alt="coding">
