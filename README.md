@@ -22,11 +22,12 @@
 - 📄 Know about my experiences https://solomonadeklo.me/CV.pdf
 
 🌐 Languages : English, Twi(Native Ghanaian Language), Ewe(Native Ghanaian Language).
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2NzI4MzdjMGExNDcwNWU0Nzk1ODRkYTlmZmU1NDkyYmMxN2NjMiZjdD1n/Ec9CDfyGiqN3qnRiIo/giphy.gif" width="70%" height="250px" alt="coding">
 
 <div align=center> 
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Fun+Facts:+;I+Love+Listening+To+Music;I+Love+Football;And+I+Am+A+Chelsea+Fan;I+Love+Reading;Bucky+Fuller+Is+My+Role+Model;I+Have+Passion+For+AI;" alt="Headline" /> 
      </div>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2NzI4MzdjMGExNDcwNWU0Nzk1ODRkYTlmZmU1NDkyYmMxN2NjMiZjdD1n/Ec9CDfyGiqN3qnRiIo/giphy.gif" width="50%" height="350px" alt="coding">
 
 <h3 align="left"><ins>Full Stack Software Engineering Apprenticeship (Graduate Trainee Programme)</ins></h3>
 <img src="/amalitech.png" width="20%" height="20%" style="margin-right: 2rem; display: flex "> 
