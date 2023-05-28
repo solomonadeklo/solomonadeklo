@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **A Portfolio Project**
 
-- 🌱 I’m currently learning **Legacy Responsive Web Design**
+- 🌱 I’m currently learning **Comprehensive Javascript**
 
 - 👨‍💻 My website: [http://solomonadeklo.me/](http://solomonadeklo.me/)
 
