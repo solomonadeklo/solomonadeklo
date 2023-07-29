@@ -1,7 +1,7 @@
 <img src="/amalitech.png" width="100%" height="300px" style="margin-right: 2rem; display: flex "> 
 <h1 align="center">Hello 👋, I'm Solomon Yaw Adeklo</h1>
 <h3 align="center">Currently I am a Front-End Software Engineer Trainee at AmaliTech Training Academy. I have been enrolled in a Front-End software engineering apprenticeship program at AmaliTech to be sucessfully recruited into AmaliTech Services to work as a professional Front-End Engineer.
-Skills:  HTML,CSS3, TailwindCSS, JavaScript, TypeScript, and Angular🔥🔥👨‍💻👨‍💻⌨️ 🌍✨✨</h3>
+Skills:  HTML,CSS3, TailwindCSS, Bootstrap, JavaScript, TypeScript, and Angular🔥🔥👨‍💻👨‍💻⌨️ 🌍✨✨</h3>
 <img src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47rmsba7fv27ywvgir8f0he7e1w960uiknknbbmbwu&rid=giphy.gif&ct=g" width="70%" height="250px" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solomon-yaw-amalitech&label=Profile%20views&color=0e75b6&style=flat" alt="solomonyaw" /> </p>
