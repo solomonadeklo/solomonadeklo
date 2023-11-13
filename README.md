@@ -1,7 +1,6 @@
-<img src="/amalitech.png" width="100%" height="300px" style="margin-right: 2rem; display: flex "> 
+<img src="/analytics.jpg" width="100%" height="300px" style="margin-right: 2rem; display: flex "> 
 <h1 align="center">Hello 👋, I'm Solomon Yaw Adeklo</h1>
-<h3 align="center">Currently I am a Front-End Software Engineer Trainee at AmaliTech Training Academy. I have been enrolled in a Front-End software engineering apprenticeship program at AmaliTech to be sucessfully recruited into AmaliTech Services to work as a professional Front-End Engineer.
-Skills:  HTML,CSS3, TailwindCSS, Bootstrap, JavaScript, TypeScript, and Angular🔥🔥👨‍💻👨‍💻⌨️ 🌍✨✨</h3>
+<h3 align="center"> I AM SELF-TAUGHT DATA ANALYST WITH A PASSION FOR TURNING RAW DATA INTO ACTIONABLE INSIGHTS. THROUGH A JOURNEY OF SELF-DISCOVERY AND HANDS-ON PROJECTS, I'VE CULTIVATED A DIVERSE SKILL SET IN THE REALM OF DATA ANALYTICS. THIS IS WHERE YOU'D FIND THE PROJECTS I HAVE WORKED ON TO DEMONSTRATE AND HONE MY DATA SCIENCE & ANALYTICS SKILLS.🔥🔥👨‍💻👨‍💻⌨️ 🌍✨✨</h3>
 <img src="https://media3.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47rmsba7fv27ywvgir8f0he7e1w960uiknknbbmbwu&rid=giphy.gif&ct=g" width="70%" height="250px" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solomon-yaw-amalitech&label=Profile%20views&color=0e75b6&style=flat" alt="solomonyaw" /> </p>
@@ -11,16 +10,16 @@ Skills:  HTML,CSS3, TailwindCSS, Bootstrap, JavaScript, TypeScript, and Angular�
 
 - 🔭 I’m currently working on **A Portfolio Project**
 
-- 🌱 I’m currently learning **Comprehensive Javascript**
+- 🌱 I’m currently learning **Advanced Exel and SQL**
 
-- 👨‍💻 My website: [http://solomonadeklo.me/](http://solomonadeklo.me/)
+- 👨‍💻 My website: [http://solomonadeklo.github.io)
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **DAta Science**
 
 - ⚡ Fun fact **I'm jovial**
 
-- 📫 How to reach me **solomon.adeklo@amalitech.org**
-- 📄 Know about my experiences https://solomonadeklo.me/CV.pdf
+- 📫 How to reach me **sadeklo@st.vvu.edu.gh**
+- 📄 Know about my experiences https//solomonadeklo.github.io/CV.pdf
 
 🌐 Languages : English, Twi(Native Ghanaian Language), Ewe(Native Ghanaian Language).
 
@@ -30,20 +29,6 @@ Skills:  HTML,CSS3, TailwindCSS, Bootstrap, JavaScript, TypeScript, and Angular�
 
 <p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM2NzI4MzdjMGExNDcwNWU0Nzk1ODRkYTlmZmU1NDkyYmMxN2NjMiZjdD1n/Ec9CDfyGiqN3qnRiIo/giphy.gif" width="40%" height="320px" alt="coding"></p>
 
-<h3 align="left"><ins>Front-End Software Engineering Apprenticeship (Graduate Trainee Programme)</ins></h3>
-<img src="/amalitech.png" width="20%" height="20%" style="margin-right: 2rem; display: flex "> 
-  <p> 
-   Currently I am a Front-End Software Engineer Trainee at AmaliTech Training Academy. I have been enrolled in a Front-End software engineering apprenticeship program at AmaliTech to be sucessfully recruited into AmaliTech Services to work as a professional Front-End Engineer.
-<br>
-    <strong>Skills</strong>: HTML,CSS3, TailwindCSS, Bootstrap, JavaScript, TypeScript, and Angular 🔥🔥👨‍💻👨‍💻⌨️ 🌍✨</p>
-    </div>  
-     <p> Link to my AmaliTech GitHub profile 👇👉: <a href ="https://github.com/solomon-yaw-amalitech">https://github.com/solomon-yaw-amalitech</a></p>
-
-
-
-<p>Below is an introductory video prologue that inspires my goal of me reaching the status of a Full Stack Software Engineer . 👇 📷📸🔥🔥👨‍💻👨‍💻⌨️ 🌍✨</p>
-
-<a href="https://www.youtube.com/watch?v=juxwJFkR9xw" target="_blank"><img src="/prologue.PNG" width="450px" height= "300px" class="gtdc" alt="GTDC" style=" box-shadow: 0rem  0.5rem 1rem #888888;"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
